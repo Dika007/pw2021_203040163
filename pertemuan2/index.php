@@ -15,7 +15,7 @@ Dika Sulaeman Akbar
 https://github.com/Dika007/pw2021_203040163
 pertemuan 2 - 14 febuari 2021
 
-mempelajari tentnag sintaks php
+mempelajari tentang sintaks php
 */
 
 
